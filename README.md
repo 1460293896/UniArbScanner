@@ -7,8 +7,6 @@ This was a requested project for someone on the fly. This script scans for arbit
 - Python 3.x
 - requests
 - pandas
-- itertools
-- math
 - web3
 
 ## Usage
