@@ -1,6 +1,6 @@
 # Uniswap Arbitrage Scanner
 
-This was a requested project for someone on the fly. This script scans for arbitrage opportunities across Uniswap pairs and prints out the best opportunities. It fetches data from Uniswap API endpoints using the requests library and processes the data using the pandas and itertools libraries. It also uses the math and web3 libraries for calculations and setting up the web3 provider.
+This was a requested project for someone on the fly. This script scans for arbitrage opportunities across Uniswap pairs and prints out the best opportunities. It fetches data from Uniswap API endpoints using the requests library and processes the data using the pandas.
 
 ## Requirements
 
