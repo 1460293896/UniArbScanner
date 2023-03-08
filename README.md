@@ -39,4 +39,4 @@ python uniArb.py
 The script will scan for arbitrage opportunities and print out the best opportunities. It will wait for 60 seconds before scanning again.
 
 License
-This script is licensed under the MIT License. See LICENSE for more information.
+This script is licensed under the GNU General Public License v3.0. See LICENSE for more information.
