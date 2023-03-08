@@ -33,7 +33,7 @@ w3 = Web3(Web3.HTTPProvider("https://mainnet.infura.io/v3/your-infura-api-key"))
 Run the script:
 
 ```python
-python arbitrage.py
+python uniArb.py
 ```
 
 The script will scan for arbitrage opportunities and print out the best opportunities. It will wait for 60 seconds before scanning again.
